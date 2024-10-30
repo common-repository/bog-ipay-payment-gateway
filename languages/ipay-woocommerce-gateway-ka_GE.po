@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-07-11 15:01+0400\n"
+"PO-Revision-Date: 2019-07-11 15:14+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ipay-woocommerce-gateway.php:40 ipay-woocommerce-gateway.php:52
+msgid ""
+"Payment can be fulfilled with BOG personal Internet banking as well as VISA, "
+"MasterCard and American Express cards."
+msgstr ""
+"გადახდა შესაძლებელია  როგორც VISA, MasterCard და American Express ტიპის "
+"ბარათებით, ასევე BOG ინტერნეტბანკის მონაცემების გამოყენებით."
+
+#: ipay-woocommerce-gateway.php:79
+msgid "Enable/Disable"
+msgstr "ჩართვა/გამორთვა"
+
+#: ipay-woocommerce-gateway.php:80
+msgid "Enable IPay Gateway"
+msgstr "iPay გადახდის მეთოდის აქტივაცია"
+
+#: ipay-woocommerce-gateway.php:86
+msgid "Demo mode"
+msgstr "დემო ვერსია"
+
+#: ipay-woocommerce-gateway.php:87
+msgid "Enable Demo Mode"
+msgstr "დემოს აქტივაცია"
+
+#: ipay-woocommerce-gateway.php:89
+msgid ""
+"Place the payment gateway in test mode using test demo merchant id and "
+"password."
+msgstr ""
+"სატესტო მერჩანტის იდენტიფიკატორისა და პაროლის გამოყენებით , გადახდის პლაგინი "
+"გადაიყვანეთ სატესტო რეჯიმში."
+
+#: ipay-woocommerce-gateway.php:94
+msgid "Demo Merchant ID"
+msgstr "სატესტო მერჩანტეს იდენტიფიკატორი"
+
+#: ipay-woocommerce-gateway.php:98
+msgid "Demo Merchant Password"
+msgstr "სატესტო მერჩანტეს პაროლი"
+
+#: ipay-woocommerce-gateway.php:102
+msgid "Real Merchant ID"
+msgstr "მერჩანტის იდენტიფიკატორი"
+
+#: ipay-woocommerce-gateway.php:106
+msgid "Real Merchant Password"
+msgstr "მერჩანტის  პაროლი"
+
+#: ipay-woocommerce-gateway.php:216
+msgid "Something went wrong, URL not found."
+msgstr "დაფიქსირდა გაუთვალისწინებელი შეცდომა,მისამართი ვერ მოიძებნა."
+
+#: ipay-woocommerce-gateway.php:233
+msgid "Unsupported currency. iPay only supports GEL."
+msgstr "ტრანზაქციის შესრულება შესაძლებელია მხოლოდ ლარში."
+
+#: ipay-woocommerce-gateway.php:242
+msgid "iPay not responding, please try again later"
+msgstr "iPay მიუწვდემელია, სცადეთ მოგვიანებით"
+
+#: ipay-woocommerce-gateway.php:247 ipay-woocommerce-gateway.php:274
+msgid "Something went wrong, please try later."
+msgstr "დაფიქსირდა გაუთვალისწინებელი შეცდომა, გთხოვთ, სცადოთ მოგვიანებით."
+
+#: ipay-woocommerce-gateway.php:266
+msgid "Hey, your order is received. Thank you!"
+msgstr "თქვენი შეკვეთა მუშავდება. მადლობა!"
+
+#: ipay-woocommerce-gateway.php:344
+msgid "Payment refunded"
+msgstr "თანხა დაბრუნებულია"
+
+#~ msgid "iPay online payment gateway."
+#~ msgstr ""
+#~ "გადახდა შესაძლებელია  როგორც VISA, MasterCard და American Express ტიპის "
+#~ "ბარათებით, ასევე BOG ინტერნეტბანკის მონაცემების გამოყენებით."
+
+#~ msgid "iPay payment"
+#~ msgstr "iPay გადახდა"
